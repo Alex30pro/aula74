@@ -10,7 +10,7 @@ mainMenu();
 
 function mainMenu(){
     console.log(`
-        "Menu de Jogadores"
+        "Menu de Contatos"
         1 - Listar Usuário
         2 - Adicionar Usuário
         3 - Atualizar Usuário
